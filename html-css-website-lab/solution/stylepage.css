@@ -1,0 +1,43 @@
+h1{
+text-align: center;
+font-size: 40px;
+text-transform:uppercase;
+font-family:  Tahoma, Geneva, Verdana, sans-serif;
+border-bottom-style: solid 
+}
+h3{
+text-align: center;
+font-family:  Tahoma, Geneva, Verdana, sans-serif;
+}
+#italic{
+    font-style: italic;
+
+}
+p{
+    text-align:left;
+    padding: 25px 50px 75px;
+    font-family:  Tahoma, Geneva, Verdana, sans-serif;
+   
+  width: 60%;
+  padding: 10px;
+    
+}
+#space{
+    letter-spacing: 5px;
+    font-weight: bold;
+}
+#person{
+    margin-left:1000px;
+    width: 200px;
+height: 200px;
+padding-bottom:20px;
+padding-top: 0px;
+overflow: auto;
+
+}
+footer{
+    border-top-style: solid ;
+    font-weight: bold;
+    text-align: center;
+    color:black;
+}
